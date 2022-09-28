@@ -206,21 +206,21 @@
     {
       "name": "SRD",
       "label": "Pkmn SRD",
-      "path": "packs/p5e-srd",
+      "path": "packs/p5e-srd.db",
       "entity": "JournalEntry",
       "module": "Pokemon5e-items"
     },
 	{
       "name": "Pokemon Feats",
       "label": "Pkmn Feats",
-      "path": "packs/p5e-feats-pokemon",
+      "path": "packs/p5e-feats-pokemon.db",
       "entity": "Item",
       "module": "Pokemon5e-items"
     },
 	{
       "name": "Human Feats",
       "label": "Feats",
-      "path": "packs/p5e-feats-human-D&D-5e",
+      "path": "packs/p5e-feats-human-D&D-5e.db",
       "entity": "Item",
       "module": "Pokemon5e-items"
     }
