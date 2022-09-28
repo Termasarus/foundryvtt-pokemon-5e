@@ -234,7 +234,7 @@
 	{
       "name": "Trainer Backgrounds",
       "label": "Trainer background",
-      "path": "packs/p5e-Backgrounds",
+      "path": "packs/p5e-Backgrounds.db",
       "entity": "Item",
       "module": "Pokemon5e-items"
     }
