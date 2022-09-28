@@ -223,6 +223,20 @@
       "path": "packs/p5e-feats-human-D&D-5e.db",
       "entity": "Item",
       "module": "Pokemon5e-items"
+    },
+	{
+      "name": "Trainer Race",
+      "label": "Trainer race",
+      "path": "packs/p5e-Human-Races.db",
+      "entity": "Item",
+      "module": "Pokemon5e-items"
+    },
+	{
+      "name": "Trainer Backgrounds",
+      "label": "Trainer background",
+      "path": "packs/p5e-Backgrounds",
+      "entity": "Item",
+      "module": "Pokemon5e-items"
     }
   ]
 }
