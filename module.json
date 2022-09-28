@@ -202,6 +202,27 @@
       "path": "packs/p5e-macros.db",
       "entity": "Macro",
       "module": "Pokemon5e-items"
+    },
+    {
+      "name": "SRD",
+      "label": "Pkmn SRD",
+      "path": "packs/p5e-srd",
+      "entity": "JournalEntry",
+      "module": "Pokemon5e-items"
+    },
+	{
+      "name": "Pokemon Feats",
+      "label": "Pkmn Feats",
+      "path": "packs/p5e-feats-pokemon",
+      "entity": "Item",
+      "module": "Pokemon5e-items"
+    },
+	{
+      "name": "Human Feats",
+      "label": "Feats",
+      "path": "packs/p5e-feats-human-D&D-5e",
+      "entity": "Item",
+      "module": "Pokemon5e-items"
     }
   ]
 }
