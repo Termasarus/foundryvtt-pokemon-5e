@@ -6,11 +6,10 @@
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
   "authors": [
     {
-      "name": "Roberto Pedroso",
-      "discord": "savagelung#4467"
+      "name": "Roberto Pedroso, Termasarus"
     }
   ],
   "dependencies": [
