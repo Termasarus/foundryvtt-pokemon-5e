@@ -22,10 +22,6 @@
       "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/fvtt-module-furnace/master/module.json"
     },
     {
-      "name": "itemcollection",
-      "manifest": "https://gitlab.com/tposney/itemcollection/raw/master/package/module.json"
-    },
-    {
       "name": "itemacro",
       "manifest": "https://github.com/Kekilla0/Item-Macro/raw/master/module.json"
     },
