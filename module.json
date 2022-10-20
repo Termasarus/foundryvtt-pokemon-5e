@@ -18,10 +18,6 @@
       "type": "system"
     },
     {
-      "name": "furnace",
-      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/fvtt-module-furnace/master/module.json"
-    },
-    {
       "name": "itemacro",
       "manifest": "https://github.com/Kekilla0/Item-Macro/raw/master/module.json"
     },
