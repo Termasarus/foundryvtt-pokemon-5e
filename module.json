@@ -18,10 +18,6 @@
       "type": "system"
     },
     {
-      "name": "itemacro",
-      "manifest": "https://github.com/Kekilla0/Item-Macro/raw/master/module.json"
-    },
-    {
       "name": "dae",
       "manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
     },
