@@ -31,7 +31,7 @@
     }
   ],
   "conflicts": [],
-  "esmodules": ["/scripts/module.js"],
+  "esmodules": ["/scripts/module.js"]["/scripts/pkmnresistance.js"],
   "styles": ["/styles/module.css"],
   "languages": [
     {
