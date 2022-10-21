@@ -1,5 +1,3 @@
-Warning for the time being P5E is incompatible with FoundryVTT v10 and up.
-
 ## Installation
 See https://github.com/foundry-vtt-community/wiki/wiki/Modules#installing-modules. 
 
