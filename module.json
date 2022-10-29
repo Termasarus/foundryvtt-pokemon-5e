@@ -228,7 +228,7 @@
 	{
       "name": "Homebrew",
       "label": "Homebrew",
-      "path": "packs/p5e-homebrew-pokemon-class-and-features.db",
+      "path": "packs/homebrew.db",
       "entity": "Item",
       "module": "Pokemon5e-items"
     }
