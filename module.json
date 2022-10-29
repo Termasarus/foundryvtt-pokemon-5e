@@ -218,7 +218,7 @@
       "path": "packs/p5e-Human-Races.db",
       "entity": "Item",
       "module": "Pokemon5e-items"
-    },
+    }
 	{
       "name": "Trainer Backgrounds",
       "label": "Trainer background",
@@ -226,5 +226,12 @@
       "entity": "Item",
       "module": "Pokemon5e-items"
     }
+		{
+      "name": "Homebrew",
+      "label": "Homebrew",
+      "path": "packs/p5e-homebrew-pokemon-class-and-features.db",
+      "entity": "Item",
+      "module": "Pokemon5e-items"
+    },
   ]
 }
